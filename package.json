@@ -28,14 +28,7 @@
     "@commitlint/config-conventional": "^19.2.2",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-terser": "^0.4.4",
-<<<<<<< HEAD
     "cross-env": "^7.0.3",
-=======
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/exec": "^6.0.3",
-    "@semantic-release/git": "^10.0.1",
-    "conventional-changelog-conventionalcommits": "^7.0.2",
->>>>>>> e09831ba3e7a7edf408d0b5a57999ae1bdab1170
     "husky": "^9.0.11",
     "rimraf": "^5.0.5",
     "rollup": "^4.15.0",
